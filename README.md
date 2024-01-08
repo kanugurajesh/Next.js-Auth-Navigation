@@ -1,8 +1,10 @@
 #### 🌟 star this repo if you like it
-<div align=center>
-    <img src="https://github.com/kanugurajesh/Next.js-Auth-Rive/assets/120458029/ae8825ab-4ea2-44d3-9c9c-7326f3a4cab5" alt="auth" width=150 height=150>
-    <img src="https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/7f97cd3c-3d55-4e0a-ae81-c28e0636fa77" alt="plus" width=50 height=50>
-    <img src="https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/acc93f88-cfe5-431c-8579-c918e2881525" alt="template" width=150 height=150>
+<div align="center">
+  <div>
+    <img align="center" src="https://github.com/kanugurajesh/Next.js-Auth-Rive/assets/120458029/ae8825ab-4ea2-44d3-9c9c-7326f3a4cab5" alt="auth" width=150 height=150>
+    <img align="center" src="https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/7f97cd3c-3d55-4e0a-ae81-c28e0636fa77" alt="plus" width=50 height=50>
+    <img align="center" src="https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/acc93f88-cfe5-431c-8579-c918e2881525" alt="template" width=150 height=150>
+  </div>
 </div>
 
 # Next.js-Auth-Rive
