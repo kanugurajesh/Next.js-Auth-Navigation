@@ -38,28 +38,33 @@ export default function Contact() {
     const handleSubmit = async () => {
         if (validateForm()) {
 
-            // const serviceId = "service_iklskkp"
-            // const templateId = "template_losae4n"
-            // const publicId = "bN9dw3qOX4-VKS8A8"
+            try {
+                const response = await fetch("/api/contact", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        name: name,
+                        email: email,
+                        message: message
+                    })
+                })
 
-            // emailjs.init(publicId);
-
-            // try {
-
-            //     const response = await emailjs.send(serviceId, templateId, {
-            //         from_name: name,
-            //         email_id: email,
-            //         message: message,
-            //     });
-
-            //     console.log(response)
-
-            //     if (response.status === 200) {
-            //         toast.success("Message sent successfully we will get back to you soon 😀")
-            //     }
-            // } catch (error) {
-            //     toast.error("Something went wrong please try again later")
-            // }
+                if (response.status === 200) {
+                    toast.success("Message sent successfully we will get back to you soon 😀")
+                } else {
+                    toast.error("Something went wrong please try again later")
+                }
+            }
+            catch (error) {
+                toast.error("Something went wrong please try again later")
+            }
+            finally {
+                setName("")
+                setEmail("")
+                setMessage("")
+            }
 
         }
     }
