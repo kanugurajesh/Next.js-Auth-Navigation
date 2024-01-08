@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
+    "@rive-app/react-canvas": "^4.7.0",
     "@types/bcrypt": "^5.0.1",
     "axios": "^1.6.0",
     "bcryptjs": "^2.4.3",
@@ -23,6 +24,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
+    "react-simple-typewriter": "^5.0.1",
     "resend": "^2.1.0",
     "rive-react": "^4.7.0",
     "tailwind-merge": "^2.2.0",
