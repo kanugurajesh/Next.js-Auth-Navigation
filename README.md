@@ -59,6 +59,8 @@ To tackle the above issue I have developed this project which aims to provide se
 ```
 
 ## Screenshots
+### Start Page
+![Screenshot 2024-01-10 233748](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/25e112bf-712a-429b-aa59-20fcc4245028)
 ### Login Page
 ![Screenshot 2024-01-10 232608](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/ed232c9d-e2fa-4005-a306-2bfd8c26289c)
 ### Signup Page
