@@ -11,7 +11,7 @@
   </div>
 </div>
 
-# Next.js-Auth-Rive
+# Next.js-Auth-Navigation
 Welcome, First of all thanks for showing intrest in my project. Let me give you a brief introduction to the project. This project aims at providing secure, scalable and reliable authentication to the Next.js projects without using any third party services and by only using core tech
 
 ## Problem Statement
