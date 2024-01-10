@@ -58,6 +58,20 @@ To tackle the above issue I have developed this project which aims to provide se
     5. go to http://localhost:8001 to open mongodb admin
 ```
 
+## Screenshots
+### Login Page
+![Screenshot 2024-01-10 232608](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/ed232c9d-e2fa-4005-a306-2bfd8c26289c)
+### Signup Page
+![Screenshot 2024-01-10 232614](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/1d931552-5a55-46e0-bd1b-77fc985632ec)
+### Forget Password Page
+![Screenshot 2024-01-10 233155](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/134c2aea-c1dd-459b-9cd4-fe55a67cce2f)
+### Profile Page
+![Screenshot 2024-01-10 233225](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/d71fbdee-0e85-4637-b024-cb57e7ab74cc)
+### Home Page
+![Screenshot 2024-01-10 233252](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/e241494c-a9c2-40a2-9c58-cd3b20b17f98)
+### Contact Page
+![Screenshot 2024-01-10 233317](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/d9268acf-2cb1-4e68-9b92-db1d2ee0d765)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
