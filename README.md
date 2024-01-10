@@ -74,6 +74,10 @@ To tackle the above issue I have developed this project which aims to provide se
 ### Contact Page
 ![Screenshot 2024-01-10 233317](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/d9268acf-2cb1-4e68-9b92-db1d2ee0d765)
 
+## Demo
+#### Click the below image to watch the demo of the application
+[![Career Aid](https://github.com/kanugurajesh/Next.js-Auth-Navigation/assets/77529419/ed232c9d-e2fa-4005-a306-2bfd8c26289c)](https://youtu.be/kBpD5yoBRF0)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
@@ -86,6 +90,10 @@ To tackle the above issue I have developed this project which aims to provide se
 - Tailwindcss
 - Typescript
 - Docker
+- Resend
+- Jwt
+- Rive
+- ShadCdn
 
 ## Contributing
 
